@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J20", "J20.csproj", "{5E682727-EADA-E6B2-E6E9-F1775E35C3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J20.Editor", "J20.Editor.csproj", "{FEE08119-7292-8F9A-4DAE-12F0093AAA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer2", "..\Multiplayer2\Multiplayer2.csproj", "{9B141F07-E1BA-CAD1-2DCA-49AF1EBD4DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E682727-EADA-E6B2-E6E9-F1775E35C3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E682727-EADA-E6B2-E6E9-F1775E35C3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E682727-EADA-E6B2-E6E9-F1775E35C3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E682727-EADA-E6B2-E6E9-F1775E35C3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE08119-7292-8F9A-4DAE-12F0093AAA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE08119-7292-8F9A-4DAE-12F0093AAA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE08119-7292-8F9A-4DAE-12F0093AAA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE08119-7292-8F9A-4DAE-12F0093AAA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B141F07-E1BA-CAD1-2DCA-49AF1EBD4DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B141F07-E1BA-CAD1-2DCA-49AF1EBD4DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B141F07-E1BA-CAD1-2DCA-49AF1EBD4DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B141F07-E1BA-CAD1-2DCA-49AF1EBD4DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
